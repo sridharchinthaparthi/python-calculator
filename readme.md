@@ -209,7 +209,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 ## 📧 Contact
 
 **Sridhar Chinthaparthi**
-- Email: sridharchinthaparthi@gmail.com
+- Email: sridhar.chinthaparthi@gmail.com
 - GitHub: [@sridharchinthaparthi](https://github.com/sridharchinthaparthi)
 
 ## 📜 License
@@ -224,3 +224,4 @@ Give a ⭐️ if this project helped you!
 
 
 **Made with ❤️ by Sridhar Chinthaparthi**
+
