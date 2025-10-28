@@ -210,7 +210,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 **Sridhar Chinthaparthi**
 - Email: sridharchinthaparthi@gmail.com
-- GitHub: [@sridahrchinthaparthi](https://github.com/sridahrchinthaparthi)
+- GitHub: [@sridharchinthaparthi](https://github.com/sridharchinthaparthi)
 
 ## 📜 License
 
@@ -221,5 +221,6 @@ This project is open source and available under the [MIT License](LICENSE).
 Give a ⭐️ if this project helped you!
 
 ---
+
 
 **Made with ❤️ by Sridhar Chinthaparthi**
